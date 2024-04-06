@@ -1,4 +1,12 @@
-# Quick Drop: Drag, Drop, Done!
+# Quick Drop: 
+
+<p align="center">
+  <img width="150" height="150" src="assets/logo.png">
+</p>
+
+<p align="center">
+<span style="font-size:3em;">Drag, Drop, Done!</span>
+<p>
 
 Visit [our website](https://quickdrop.antran.app/) for more information: 
 
