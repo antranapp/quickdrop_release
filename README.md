@@ -15,7 +15,8 @@ Quick workflows running on files dropped in the notch
 - Send a file via Airdrop
 - Open files with apps via deep links
 - Copy/Move files to predefined locations
-- Compress PDF
+- Run your own Shell Scripts: file renaming, file compression, ....
+- Run your own FFMPEG Command: video compression, video cropping, video merging ...
 - Add files as email attachment (coming soon)
 - Run Apple Scripts (coming soon)
 - Run Shortcuts (coming soon)
@@ -24,6 +25,11 @@ Quick workflows running on files dropped in the notch
 ... and many more features coming soon
 
 # Release Notes
+
+## 1.4.0 (07 May 2024)
+
+✨ Features
+- Add: FFMPEG Integration
 
 ## 1.3.1 (23 April 2024)
 
