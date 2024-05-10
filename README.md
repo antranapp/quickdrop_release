@@ -16,7 +16,7 @@ Quick workflows running on files dropped in the notch
 - Open files with apps via deep links
 - Copy/Move files to predefined locations
 - Run your own Shell Scripts: file renaming, file compression, ....
-- Run your own FFMPEG Command: video compression, video cropping, video merging ...
+- Run your own FFmpeg Command: video compression, video cropping, video merging ...
 - Add files as email attachment (coming soon)
 - Run Apple Scripts (coming soon)
 - Run Shortcuts (coming soon)
@@ -26,10 +26,18 @@ Quick workflows running on files dropped in the notch
 
 # Release Notes
 
+## 1.5.0 (11 May 2024)
+
+✨ Features
+- Add buttons to add placeholders into script editor quickly
+
+🐞 Fixes
+- Fix: canceling long running script will hide the progress view
+
 ## 1.4.0 (07 May 2024)
 
 ✨ Features
-- Add: FFMPEG Integration
+- Add: FFmpeg Integration
 
 ## 1.3.1 (23 April 2024)
 
