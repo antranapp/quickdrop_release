@@ -26,6 +26,13 @@ Quick workflows running on files dropped in the notch
 
 # Release Notes
 
+# 1.6.0 (15 May 2024)
+
+## ✨ Features
+
+- Add ability to choose a shell script as the default notch action
+- Add ability to choose a FFmpeg script as the default notch action
+
 ## 1.5.0 (11 May 2024)
 
 ✨ Features
