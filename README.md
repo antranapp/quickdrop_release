@@ -26,6 +26,12 @@ Quick workflows running on files dropped in the notch
 
 # Release Notes
 
+## 1.7.0 (21 May 2024)
+
+✨ Features
+- Add ability to toggle visibility of shell script and FFmpeg script in the action panel
+- Add tooltips to the placeholder buttons to explain their functionalities
+
 ## 1.6.0 (15 May 2024)
 
 ✨ Features
